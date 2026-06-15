@@ -1,6 +1,6 @@
-package programming_elements.Level1;
-import java.util.Scanner;
+package gcr_codebase.programming_elements.Level1;
 
+import java.util.Scanner;
 
 public class universitydiscount {
     public static void main(String[] args) {

@@ -1,4 +1,5 @@
-package programming_elements.Level1;
+package gcr_codebase.programming_elements.Level1;
+
 import java.util.Scanner;
 
 public class distancemiles {

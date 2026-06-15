@@ -1,4 +1,4 @@
-package programming_elements.Level1;
+package gcr_codebase.programming_elements.Level1;
 
 public class samaverage {
     public static void main(String[] args) {
