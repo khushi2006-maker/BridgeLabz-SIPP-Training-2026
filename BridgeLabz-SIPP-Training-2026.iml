@@ -5,6 +5,11 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/core_java_practice" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/core_java_practice/gcr_codebase/programming_elements/Level 1 Practice" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/core_java_practice/gcr_codebase/ Arrays_Practices" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/core_java_practice/gcr_codebase/ String_Practices" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/core_java_practice/gcr_codebase/control_flow" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/core_java_practice/gcr_codebase/programming_elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/out" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
