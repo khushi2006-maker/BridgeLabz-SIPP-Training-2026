@@ -1,4 +1,0 @@
-Milk - 50
-Bread - 30
-Eggs - 60
-Rice - 100
